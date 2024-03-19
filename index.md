@@ -23,7 +23,8 @@ I am currently a master’s student at Visual, Sensing and Intelligent System La
 {% include_relative _includes/publications.md %}
 
 ## Skills
-**Program** Python,c/c++
-**Deep Learning** Pytorch/Tensorflow
+
+- **Program** Python,c/c++
+- **Deep Learning** Pytorch/Tensorflow
 
 {% include_relative _includes/services.md %}
