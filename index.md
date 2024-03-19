@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-I am a Ph.D. student at ...
+I am currently a master’s student at Visual, Sensing and Intelligent System Laboratory (VSISLab), School of Control Science and Engineering, Shandong University (SDU). My advisor is Prof. Wei Zhang. I received my Bachelor’s degree in Automation at SDU.
 
 ## Research Interests
 
