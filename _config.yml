@@ -22,7 +22,7 @@ github_link: https://github.com/zhaockab
 # "favicon" and "favicon_dark" are used for the light and dark modes, respectively. 
 avatar: ./assets/img/head.jpg
 favicon: ./assets/img/html_head.png
-favicon_dark: ./assets/img/html_head.png
+#favicon_dark: ./assets/img/html_head.png
 
 # Footnote
 # You may use the option to disable the footnote, "Powered by Jekyll and Minimal Light theme."
