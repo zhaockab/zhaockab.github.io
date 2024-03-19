@@ -4,8 +4,8 @@ main:
     authors: Dayou Li, Pengkun Wei, <strong>Chenkun Zhao</strong>, Shuo Yang, Yibin Li, Wei Zhang*(*Corresponding authors)
     conference_short: ICMA
     conference: International Conference on Mechatronics and Automation <strong>(ICMA)</strong>, 2023.
-    #pdf: https://arxiv.org/pdf/2306.00988.pdf
-    #bibtex: https://bib.yliu.me/MICCAI23.txt
+    pdf: https://arxiv.org/pdf/2306.00988.pdf
+    bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/icma.png
     #notes: Early Accept
 
