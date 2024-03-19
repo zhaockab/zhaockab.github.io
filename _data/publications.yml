@@ -9,15 +9,7 @@ main:
     image: ./assets/img/icma.png
     #notes: Early Accept
 
-  - title: A Mobile Manipulation System for Automated Replenishment in the Field of Unmanned Retail
-    authors: Dayou Li, Pengkun Wei, <strong>Chenkun Zhao</strong>, Shuo Yang, Yibin Li, Wei Zhang*(*Corresponding authors)
-    conference_short: ICMA
-    conference: International Conference on Mechatronics and Automation <strong>(ICMA)</strong>, 2023.
-    pdf: https://arxiv.org/pdf/2306.00988.pdf
-    bibtex: https://bib.yliu.me/MICCAI23.txt
-    image: ./assets/img/icma.png
-    #notes: Early Accept
- - title: Multi-class 4-DoF Carton Box Detection for Heterogeneous Robotic Container Unloading
+  - title: Multi-class 4-DoF Carton Box Detection for Heterogeneous Robotic Container Unloading
     authors: Shuo Yang, Dayou Li, <strong>Chenkun Zhao<strong>, Pengkun Wei, Yibin Li, Wei Zhang*(*Corresponding authors)
     conference_short: RCAR
     conference: International Conference on Real-time Computing and Robotics <strong>(RCAR)</strong>, 2023.
