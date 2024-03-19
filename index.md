@@ -13,11 +13,11 @@ I am currently a master’s student at Visual, Sensing and Intelligent System La
 
 ## News
 
-- **[Feb. 2020]** Our paper about incremental learning is accepted to CVPR 2020.
-- **[Feb. 2020]** We will host the ACM Multimedia Asia 2020 conference in Singapore!
-- **[Sept. 2019]** Our paper about few-shot learning is accepted to NeurIPS 2019.
-- **[Mar. 2019]** Our paper about few-shot learning is accepted to CVPR 2019.
-
+- **[Mar. 2024]** Two papers submitted to IROS 2024.
+- **[Feb. 2024]** One paper submitted to RSS 2024.
+- **[Jan. 2024]** One paper submitted to ICARM 2024.
+- **[Aug. 2023]** Our paper about container unloading is selected to be the finalist of the Best Conference Paper Award in ICMA 2023.
+- **[Jun. 2023]** Our paper about mobile manipulation is selected to be the finalist of the Best Conference Paper Award in RCAR 2023.
 
 
 {% include_relative _includes/publications.md %}
