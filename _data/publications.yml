@@ -5,6 +5,7 @@ main:
     conference_short: ICMA
     conference: International Conference on Mechatronics and Automation <strong>(ICMA)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/document/10215742
+    demo: https://youtu.be/g6WrF-I7tNw
     #bibtex: https://bib.yliu.me/MICCAI23.txt
     image: ./assets/img/icma.png
     #notes: Early Accept
