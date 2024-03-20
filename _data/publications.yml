@@ -15,6 +15,7 @@ main:
     conference_short: RCAR
     conference: International Conference on Real-time Computing and Robotics <strong>(RCAR)</strong>, 2023.
     pdf: https://ieeexplore.ieee.org/document/10249938
+    demo: https://youtu.be/nYvCbNoYi5Y
     #code: https://github.com/yaoyao-liu/class-incremental-learning/tree/main/mnemonics-training
     #page: https://class-il.mpi-inf.mpg.de/mnemonics/
     #bibtex: https://class-il.mpi-inf.mpg.de/mnemonics/
